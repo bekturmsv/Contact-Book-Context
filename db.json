@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "bektur",
+      "surname": "Maasaliev",
+      "number": "0102030405",
+      "status": false,
+      "id": 1
+    },
+    {
+      "name": "Omurlan",
+      "surname": "Abdrashev",
+      "number": "1020304050",
+      "status": false,
+      "id": 2
+    },
+    {
+      "name": "Sakura",
+      "surname": "Haruno",
+      "number": "102002023",
+      "status": false,
+      "id": 3
+    },
+    {
+      "name": "Sasuke",
+      "surname": "Uchiha",
+      "number": "010203040506",
+      "status": false,
+      "id": 4
+    },
+    {
+      "name": "Obito",
+      "surname": "Uchiha",
+      "number": "01020304500607",
+      "status": false,
+      "id": 5
+    }
+  ]
+}
